@@ -2,8 +2,8 @@
 layout: post
 title: "blog on github based on jekyll boostrap"
 description: ""
-category: 
-tags: []
+category: Tools
+tags: [jekyll]
 ---
 {% include JB/setup %}
 
