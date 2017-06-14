@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Hello World!
 
 ---
 {% include JB/setup %}
 
 
-
-## To-Do
+![ff]({{site.url}}/assets/pictures/big-S.jpg)
 
 
 

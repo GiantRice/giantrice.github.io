@@ -4,6 +4,7 @@ title: "blog on github based on jekyll boostrap"
 description: ""
 category: Tools
 tags: [jekyll]
+comments: false
 ---
 {% include JB/setup %}
 
@@ -43,7 +44,11 @@ Jekyll的中文官网有介绍[安装Jekyll的教程](http://jekyllcn.com/docs/i
 	可以参考[--watch arg is unsupported on Windows](https://stackoverflow.com/questions/39970672/watch-arg-is-unsupported-on-windows)
 
 
-## To be continued
+## 常用技巧
+
+- 禁止评论	
+	
+	在yaml头信息中添加`comments: false`，或者是在_config.yml里配置。
 
 
 
